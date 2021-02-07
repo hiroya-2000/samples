@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 samples.txtの更新を取り消しました。
+=======
+samples 大革新
+>>>>>>> develop
