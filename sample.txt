@@ -1,1 +1,1 @@
-sample.txtの再更新
+samples.txtの更新を取り消しました。
